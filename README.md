@@ -4,7 +4,7 @@ Qualquer contribuição é bem vinda.
 Vão ser usados como base os exercícios e códigos gerados no Livro
 Automatizando tarefas maçantes com Python.
 
-Lista de  Exercícios criados:
+# Lista de  Exercícios criados:
 
-1.Definição de Funções
+- Definição de Funções
 
