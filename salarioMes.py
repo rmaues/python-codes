@@ -1,4 +1,4 @@
-# Faça um Programa que calcule o vaor bruto de salário de uma pessoa com base na quantidade de horas e o valor da hora.
+# Faça um Programa que calcule o valor bruto de salário de uma pessoa com base na quantidade de horas e o valor da hora.
 __author__ = 'rmaues'
 
 vlrHora = float(input("Qual o valor da sua hora de trabalho? "))
