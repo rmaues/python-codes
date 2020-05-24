@@ -1,3 +1,4 @@
+# Primeiras aplicacoes em Python
 __author__ = 'rmaues'
 
 from random import randint
